@@ -28,7 +28,7 @@ div{
     position: relative;
     top: 30px;
     left: 435px;
-    line-height: 70px;
+    line-height: 30px;
 }
 
 
@@ -37,22 +37,52 @@ h3{
    font-size: 25px;
    padding-left: 25px;
    text-decoration: underline; 
-
+    position: relative;
+    top: 30px;
+    left: 26px;
 }
 
+    
+
+
 #usuario{
-    border: 0;
-    border-bottom: 10px;
+    border: none;
+    border-bottom: 1px solid black;
+    padding-left: 125px;
+    position: relative;
+    left: 50px;
+    top: 70px;
 }
 
 
 #senha{
     border: 0;
-    border-bottom: 0;
+    border-bottom: 10px;
+    padding-left: 125px;
+    position: relative;
+    left: 50px;
+    top: 70px;
 }
 
-
+label{
+    color: white;
+    position: relative;
+    left: 50px;
+    top: 70px;
+}
 
 #login{
+    width: 250px;
+    height: 30px;
+    position: relative;
+    left: 68px;
+    top: 140px;
+}
 
+a{
+    color: white;
+    text-decoration: none;
+    padding-left: 136px;
+    position: relative;
+    top: 140px;
 }
