@@ -29,6 +29,7 @@ img{
     height: 70px;
     position: relative;
     top: 10px;
+    left: 350px;
     border-radius: 2em;
     box-shadow: 0 0 3px black;
 }
@@ -38,6 +39,7 @@ input{
     height: 50px;
     position: relative;
     bottom: 18px;
+    left: 340px;
     border-radius: 2em;
     box-shadow: 0 0 6px black;
 }
@@ -45,6 +47,7 @@ input{
 input::placeholder{
     padding-left: 20px;
     font-size: 18px;
+    color: rgb(179, 26, 179);
 }
 
 .pesquisa{

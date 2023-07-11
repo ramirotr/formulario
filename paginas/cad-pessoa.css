@@ -29,7 +29,8 @@ h1{
     border: 2px solid black;
     border-radius: 1em;
     position: relative;
-    left: 410px;
+    margin-left: 660px;
+    left: 90px;
     top: 30px;
 }
 
