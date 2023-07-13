@@ -43,26 +43,34 @@ h3{
 }
 
     
+input{
+    color: white;
+}
 
-
-#usuario{
-    border-bottom: 130px;
-    padding-left: 125px;
+#usuario {
+    width: 295px;
+    border-bottom: 1px solid white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: rgb(50, 44, 44);
     position: relative;
+    top: 110px;
     left: 50px;
-    top: 100px;
-    margin-bottom: 20px;
-   
 }
 
 
 
 #senha{
-    border-bottom: 130px;
-    padding-left: 125px;
+    width: 295px;
+    border-bottom: 1px solid white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: rgb(50, 44, 44);
     position: relative;
+    top: 130px;
     left: 50px;
-    top: 120px;
 }
 
 label{
